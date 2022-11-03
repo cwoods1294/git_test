@@ -1,0 +1,14 @@
+Commands related to a remote repo:
+    git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+    git push or git push origin main
+
+Commands related to the workflow:
+    git add .
+    git commit -m "description"
+
+Commands related to checking status or log history
+    git status
+    git log
+
+The basic Git syntax is "program | action | destination"
+    e.g. "git add ." --> "git | add | ."
